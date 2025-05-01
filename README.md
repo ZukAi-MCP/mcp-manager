@@ -125,13 +125,7 @@ MIT
 ---
 <br/>
 <br/>
-<p align="center">
-<a![945b0d28e149fd3d24cbe5c4ad520ffa](https://github.com/user-attachments/assets/c698cc3f-c078-48b3-b7de-9a99a5394b0c)
+![945b0d28e149fd3d24cbe5c4ad520ffa](https://github.com/user-attachments/assets/4db726d2-c335-41ac-85f9-9c5a1d5df110)
 
-</a>
-</p>
-
-<p align="center">
-<a![945b0d28e149fd3d24cbe5c4ad520ffa](https://github.com/user-attachments/assets/f26122d2-3d4d-4d24-a5ea-4385681ce8da)
  >Contact us</a> for custom AI automation solutions and product development.
 </p>
