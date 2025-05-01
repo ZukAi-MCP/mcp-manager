@@ -126,11 +126,8 @@ MIT
 <br/>
 <br/>
 <p align="center">
-<a href="https://zue.ai#gh-light-mode-only">
-  <img src="https://assets.zue.ai/logo_zue_purple.svg" alt="zue logo" width="200" height="auto" style="display: block; margin: 0 auto;" />
-</a>
-<a href="https://zue.ai#gh-dark-mode-only">
-  <img src="https://assets.zue.ai/logo_zue_yellow.svg" alt="zue logo" width="200" height="auto" style="display: block; margin: 0 auto;" />
+<a![945b0d28e149fd3d24cbe5c4ad520ffa](https://github.com/user-attachments/assets/c698cc3f-c078-48b3-b7de-9a99a5394b0c)
+
 </a>
 </p>
 
