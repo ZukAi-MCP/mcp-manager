@@ -1,5 +1,5 @@
 import daisyui from "daisyui"
-import { light } from "daisyui/src/theming/themes"
+import { light } from "daisyui/src/theming/themes" 
 import type { Config } from "tailwindcss"
 
 export default {
