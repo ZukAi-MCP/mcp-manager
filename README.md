@@ -1,4 +1,4 @@
-<h1 align="center">MCP Manager for Claude Desktop</h1>
+<h1 align="center">MCP Manager for Claude Desktop</h1> 
 
 <p align="center">A desktop application to manage Model Context Protocol (MCP) servers for the Claude Desktop app on MacOS. Just follow the instructions and paste a few commands to give your Claude app instant superpowers.</p>
 
