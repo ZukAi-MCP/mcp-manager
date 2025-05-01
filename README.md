@@ -135,5 +135,6 @@ MIT
 </p>
 
 <p align="center">
-<a href="https://zue.ai/talk-to-us">Contact us</a> for custom AI automation solutions and product development.
+<a![945b0d28e149fd3d24cbe5c4ad520ffa](https://github.com/user-attachments/assets/f26122d2-3d4d-4d24-a5ea-4385681ce8da)
+ >Contact us</a> for custom AI automation solutions and product development.
 </p>
