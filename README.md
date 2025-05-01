@@ -123,9 +123,5 @@ This project is not affiliated with Anthropic. All logos are trademarks of their
 MIT
 
 ---
-<br/>
-<br/>
-![945b0d28e149fd3d24cbe5c4ad520ffa](https://github.com/user-attachments/assets/4db726d2-c335-41ac-85f9-9c5a1d5df110)
-
  >Contact us</a> for custom AI automation solutions and product development.
 </p>
