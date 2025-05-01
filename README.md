@@ -2,7 +2,9 @@
 
 <p align="center">A desktop application to manage Model Context Protocol (MCP) servers for the Claude Desktop app on MacOS. Just follow the instructions and paste a few commands to give your Claude app instant superpowers.</p>
 
-![MCP Manager for Claude Desktop](https://assets.zue.ai/mcp-manager-hero.png)
+![75ecdf47612576b36288015ac65cc2d1](https://github.com/user-attachments/assets/8ae33dfa-6528-473b-bf98-0d3cdc9b3cb6)
+
+
 
 ## What is MCP?
 
