@@ -110,18 +110,3 @@ Add preset MCPs:
 
 Contributions to resolve these are welcome!
 
-## Contributing
-
-Contributions are extremely welcome! Please open a PR with new MCP servers or any other improvements to the codebase.
-
-## Disclaimer
-
-This project is not affiliated with Anthropic. All logos are trademarks of their respective owners.
-
-## License
-
-MIT
-
----
-## custom AI automation solutions and product development.
-</p>
