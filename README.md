@@ -108,5 +108,4 @@ Add preset MCPs:
 - Time-related 
 - Sentry 
 
-Contributions to resolve these are welcome!
 
