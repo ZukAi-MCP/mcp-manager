@@ -1,0 +1,49 @@
+version: "3"
+services:
+  testnet_sha256d:
+    build:
+        context: ../../
+        dockerfile: contrib/docker/Dockerfile
+    volumes:
+        - "./smileycoin-testnet-sha256d.conf:/smileycoin/.smileycoin/smileycoin.conf"
+    restart: "always"
+
+  testnet_groestl:
+    build:
+      context: ../../
+      dockerfile: contrib/docker/Dockerfile
+    volumes:
+      - "./smileycoin-testnet-groestl.conf:/smileycoin/.smileycoin/smileycoin.conf"
+    restart: "always"
+
+  testnet_qubit:
+    build:
+      context: ../../
+      dockerfile: contrib/docker/Dockerfile
+    volumes:
+      - "./smileycoin-testnet-qubit.conf:/smileycoin/.smileycoin/smileycoin.conf"
+    restart: "always"
+
+  testnet_skein:
+      build:
+        context: ../../
+        dockerfile: contrib/docker/Dockerfile
+      volumes:
+        - "./smileycoin-testnet-skein.conf:/smileycoin/.smileycoin/smileycoin.conf"
+      restart: "always"
+
+  testnet_scrypt_01:
+      build:
+        context: ../../
+        dockerfile: contrib/docker/Dockerfile
+      volumes:
+        - "./smileycoin-testnet-scrypt.conf:/smileycoin/.smileycoin/smileycoin.conf"
+      restart: "always"
+
+  testnet_scrypt_02:
+      build:
+        context: ../../
+        dockerfile: contrib/docker/Dockerfile
+      volumes:
+        - "./smileycoin-testnet-scrypt.conf:/smileycoin/.smileycoin/smileycoin.conf"
+      restart: "always"
