@@ -1,0 +1,4 @@
+smileycoin-qt usr/bin
+media/pixmaps/smileycoin.png usr/share/pixmaps
+debian/smileycoin-qt.desktop usr/share/applications
+debian/smileycoin-qt.protocol usr/share/kde4/services/

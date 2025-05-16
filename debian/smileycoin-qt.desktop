@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Smileycoin
+Comment=Smileycoin P2P Cryptocurrency
+Comment[fr]=Smileycoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Smileycoin, eşten eşe kriptografik sanal para birimi
+Exec=smileycoin-qt %u
+Terminal=false
+Type=Application
+Icon=smileycoin128
+MimeType=x-scheme-handler/smileycoin;
+Categories=Office;Finance;

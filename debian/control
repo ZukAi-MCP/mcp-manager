@@ -1,0 +1,15 @@
+Source: smileycoin
+Section: misc
+Priority: optional
+Maintainer: Smileycoin foundation <smlyarad@smlyarad.is>
+Build-Depends: debhelper (>= 9.0.0), autotools-dev
+Standards-Version: 3.9.5
+Homepage: http://www.smileycoin.is
+#Vcs-Git: git://git.debian.org/collab-maint/smileycoin.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/smileycoin.git;a=summary
+
+Package: smileycoin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Official software wallet for the Icelandic crypto currency Smileycoin
+ <insert long description, indented with spaces>

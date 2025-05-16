@@ -1,0 +1,14 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+DEB_INSTALL_MANPAGES += debian/manpages/*
+
+%:
+	./autogen.sh
+	dh $@  --with autotools-dev
+
+override_dh_auto_configure:
+	dh_auto_configure -- --disable-tests

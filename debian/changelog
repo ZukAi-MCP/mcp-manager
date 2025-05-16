@@ -1,0 +1,36 @@
+smileycoin (2017.02.1.0-0ubuntu1) xenial; urgency=low
+
+  * Improved wallet loading speed.
+  * New checkpoints and updated seeds.
+  * Versioning code improvements.
+  * In-wallet miner improvements.
+  * Removal of testnet and regnet code.
+  * Removal of Tor/Onion routing network support.
+
+ -- Smileycoin foundation <smlyarad@smlyarad.is>  Fri, 17 Feb 2017 16:48:00 +0100
+
+smileycoin (2016.08.1.0-0ubuntu1) trusty; urgency=low
+
+  * New checkpoints.
+  * Restore original difficulties for all algorithms.
+  * Update to Berkeley DB 5.3 branch.
+
+ -- Smileycoin foundation <smlyarad@smlyarad.is>  Mon, 01 Aug 2016 22:38:00 +0200
+
+smileycoin (2016.05.1.0-0ubuntu1) trusty; urgency=low
+
+  * Rebuild of the 2016.04.1.0 release to include the actual fix.
+
+ -- Smileycoin foundation <smlyarad@smlyarad.is>  Fri, 13 May 2016 15:17:00 +0200
+
+smileycoin (2016.04.1.0-0ubuntu1) trusty; urgency=low
+
+  * Small fix regarding import of private keys from paper wallets.
+
+ -- Smileycoin foundation <smlyarad@smlyarad.is>  Mon, 25 Apr 2016 13:15:00 +0200
+
+smileycoin (2016.03.1.0-0ubuntu1) trusty; urgency=low
+
+  * First Ubuntu package release.
+
+ -- Smileycoin foundation <smlyarad@smlyarad.is>  Tue, 08 Mar 2016 12:30:00 +0100
